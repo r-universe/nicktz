@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "rmsfuns"]
-	path = rmsfuns
-	url = https://github.com/nicktz/rmsfuns
-	shallow = true
-	registered = true
 [submodule "tbl2xts"]
 	path = tbl2xts
 	url = https://github.com/nicktz/tbl2xts
+	shallow = true
+	registered = true
+[submodule "rmsfuns"]
+	path = rmsfuns
+	url = https://github.com/nicktz/rmsfuns
 	shallow = true
 	registered = true

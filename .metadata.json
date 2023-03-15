@@ -1,10 +1,10 @@
 [
   {
-    "package": "rmsfuns",
+    "package": "tbl2xts",
     "oncran": true
   },
   {
-    "package": "tbl2xts",
+    "package": "rmsfuns",
     "oncran": true
   }
 ]
